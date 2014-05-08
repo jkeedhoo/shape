@@ -29,6 +29,11 @@ local.properties
 # PDT-specific
 .buildpath
 
+####
+# exclude temp folder
+####
+temp/
+exclude.txt
 
 #################
 ## Visual Studio
