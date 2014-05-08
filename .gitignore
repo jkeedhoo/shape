@@ -16,6 +16,13 @@ local.properties
 .settings/
 .loadpath
 
+####
+#Exclude folder
+####
+tmp/
+exclude.txt
+
+
 # External tool builders
 .externalToolBuilders/
 
